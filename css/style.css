@@ -1,0 +1,42 @@
+#searchLabel{
+    font-weight: bold;
+    
+}
+#input{
+    
+}
+.btn-primary{
+    margin-top: 10px;
+display: block;
+
+}
+.container{
+    margin-left: 10px;
+    width: 300px;
+    margin-top: 20px;
+    float: left;
+}
+#buttonsView{
+    border: 5px solid teal;
+    height: auto;
+    width: 800px;
+    float: left;
+    text-align: center;
+    color: #FFBD33;
+    font-family: 'Rubik Mono One', sans-serif;
+}
+#ptagButtons{
+    color: #FFBD33;
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 30px;
+    margin-bottom: 0;
+    text-shadow: 2px 2px 4px #000000;
+}
+.btn007{
+    margin-right: 5px;
+    height: 5px;
+    font-size: 10px;
+}
+#gifsHere{
+    margin-top: 100px;
+}
